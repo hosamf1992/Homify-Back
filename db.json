@@ -1,0 +1,35 @@
+{
+  "homes": [
+   {
+  "name": "sese",
+   "_id": 123,
+  "hostId": "123",
+ "availableDates": ["123"],
+ "type": "type",
+ "reviewsIds": ["123"],
+  "images": [{"type":["inside","host","area"],"url":"url"}],
+  "location": {
+    "address": "tel-aviv",
+    "coords": "29"
+  }
+
+
+}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "user":  {
+    "type": "host/visitor",
+    "name": "name",
+    "_id": 123,
+    "email": "email",
+    "password": "pass",
+    "reviewIds": [123],
+    "pastHomeIds": [123]
+}
+}
+
+
+
+
