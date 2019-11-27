@@ -1,35 +1,62 @@
 {
-  "homes": [
-   {
-  "name": "sese",
-   "_id": 123,
-  "hostId": "123",
- "availableDates": ["123"],
- "type": "type",
- "reviewsIds": ["123"],
-  "images": [{"type":["inside","host","area"],"url":"url"}],
-  "location": {
-    "address": "tel-aviv",
-    "coords": "29"
-  }
-
-
-}
+  "item": [
+    {
+      "name": "Hut In The Woods",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": 123,
+      "id": "1234",
+      "hostId": "2345",
+      "location": {
+        "address": {
+          "continent": "Asia",
+          "country": "Israel",
+          "street": "Habonim",
+          "streetNo": 4
+        },
+        "coords": {
+          "lan": 12,
+          "lat": 21
+        }
+      },
+      "images": [
+        {
+          "type": "surroundings",
+          "url": "https://blenderartists.org/uploads/default/original/3X/6/1/61f16a294be7a9adb48900e1a542511e166aa79f.jpg"
+        },
+        {
+          "type": "nature",
+          "url": "https://static.puzzlefactory.pl/puzzle/182/314/original.jpg"
+        }
+      ],
+      "reviews": {
+        "avgRating": 4.3,
+        "reviewsIds": []
+      },
+      "type": [
+        "nature",
+        "woods"
+      ],
+      "availableDates": []
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "user":  {
+  "user": {
     "type": "host/visitor",
     "name": "name",
     "_id": 123,
     "email": "email",
     "password": "pass",
-    "reviewIds": [123],
-    "pastHomeIds": [123]
+    "reviewIds": [
+      123
+    ],
+    "pastHomeIds": [
+      123
+    ]
+  }
 }
-}
-
-
-
-
