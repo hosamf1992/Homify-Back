@@ -19,10 +19,8 @@
         }
       },
       "imgs": [
-        
-          "https://blenderartists.org/uploads/default/original/3X/6/1/61f16a294be7a9adb48900e1a542511e166aa79f.jpg",
-          "https://static.puzzlefactory.pl/puzzle/182/314/original.jpg"
-       
+        "https://blenderartists.org/uploads/default/original/3X/6/1/61f16a294be7a9adb48900e1a542511e166aa79f.jpg",
+        "https://static.puzzlefactory.pl/puzzle/182/314/original.jpg"
       ],
       "reviews": {
         "avgRating": 4.3,
@@ -33,53 +31,56 @@
         "woods"
       ],
       "availableDates": [],
-      "msgs":["hi","bye"],
-      "amentities":["kitchen","shower"]
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "kitchen",
+        "shower"
+      ]
     }
   ],
-"review": [
+  "review": [
     {
       "_id": "id",
       "txt": "some comment",
       "postId": "234",
-      "createdAt":"26.11.1992",
-      "rating":5,
-      "user":
-        {
-       "userId":"1234",
-         "userName":"name"
-       },
-      "houseId":"hasd"
-
+      "createdAt": "26.11.1992",
+      "rating": 5,
+      "user": {
+        "userId": "1234",
+        "userName": "name"
+      },
+      "houseId": "hasd"
     }
   ],
-"user": [
-{
-    "type": "host/visitor",
-    "name": "name",
-    "_id": "userid",
-    "email": "email",
-    "password": "pass",
-    "joinedAt":"26.11.1992",
-    "img":"imgUrl",
-   "phone":99745
-    
-  }
-],
-"order":
-[
- {
-    
-     "createdAt":"26.11.1992",
-    "_id": 123,
-    "houseId":"hasd",
-     "dates":{"from":"26.11.1992","to":"27.12.1990"},
-     "user":{"userId":"123","userName":"name"},
-   "status":"approved"
-    
-  }
-]
-
-
- 
+  "user": [
+    {
+      "type": "host/visitor",
+      "name": "name",
+      "_id": "userid",
+      "email": "email",
+      "password": "pass",
+      "joinedAt": "26.11.1992",
+      "img": "imgUrl",
+      "phone": 99745
+    }
+  ],
+  "order": [
+    {
+      "createdAt": "26.11.1992",
+      "_id": 123,
+      "houseId": "hasd",
+      "dates": {
+        "from": "26.11.1992",
+        "to": "27.12.1990"
+      },
+      "user": {
+        "userId": "123",
+        "userName": "name"
+      },
+      "status": "approved"
+    }
+  ]
 }
