@@ -46,9 +46,9 @@
       "postId": 1
     }
   ],
-  "user": {
+  "user": [{
     "type": "host/visitor",
-    "name": "name",
+    "name": "Moshe",
     "_id": 123,
     "email": "email",
     "password": "pass",
@@ -58,5 +58,19 @@
     "pastHomeIds": [
       123
     ]
+  },
+{
+    "type": "host/visitor",
+    "name": "Yossi",
+    "_id": 124,
+    "email": "email",
+    "password": "pass",
+    "reviewIds": [
+      123
+    ],
+    "pastHomeIds": [
+      123
+    ]
   }
+]
 }
