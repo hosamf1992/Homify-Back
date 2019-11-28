@@ -5,7 +5,7 @@
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
       "price": 123,
       "_id": "1234",
-      "hostId": "2345",
+      "hostId": "234",
       "location": {
         "address": {
           "continent": "Asia",
@@ -39,6 +39,144 @@
         "kitchen",
         "shower"
       ]
+    },
+  {
+      "name": "Champs-Elysees Golden",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": 225,
+      "_id": "191",
+      "hostId": "234",
+      "location": {
+        "address": {
+          "continent": "Europe",
+          "country": "France",
+          "street": "Paris",
+          "streetNo": 2
+        },
+        "coords": {
+          "lan": 48.85,
+          "lat": 2.35
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/63119ccc-6c2d-443b-b63b-206ee276eca8.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/544462dd-5375-400e-9028-ed6acdb7e881.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/e04a59ea-20f5-4e43-918f-59a3fef871c5.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/13fdf702-3ea9-4cc8-954c-7ee676d7f8c9.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.8,
+        "reviewsIds": []
+      },
+      "type": [
+        "city",
+        "beutiful",
+        "unique",
+        "great"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "lorem",
+        "ipsum"
+      ],
+      "amentities": [
+        "kitchen",
+        "shower",
+        "wifi",
+        "garden"
+      ]
+    },
+  {
+      "name": "BIG BEN VINTAGE ROOM Nr2!",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": 800,
+      "_id": "255",
+      "hostId": "344",
+      "location": {
+        "address": {
+          "continent": "Europe",
+          "country": "England",
+          "street": "London",
+          "streetNo": 9
+        },
+        "coords": {
+          "lan": 51.5073509,
+          "lat": -0.1277583
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/31396872/b3b5bedf_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/31465784/2f4e3b72_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/31396835/80abe7db_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/31396416/937cadbe_original.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.2,
+        "reviewsIds": []
+      },
+      "type": [
+        "city",
+        "beutiful",
+        "london",
+        "classic"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "lorem",
+        "ipsum"
+      ],
+      "amentities": [
+        "horses",
+        "kitchen",
+        "heating",
+        "garden"
+      ]
+    },
+{
+      "name": "Stylish room /10 mins to Big Ben",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": 633,
+      "_id": "120",
+      "hostId": "344",
+      "location": {
+        "address": {
+          "continent": "Europe",
+          "country": "England",
+          "street": "London",
+          "streetNo": 18
+        },
+        "coords": {
+          "lan": 51.5073509,
+          "lat": -0.1277583
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/105787762/a5cac5ad_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/95033249/77a6c967_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/95035671/02baa321_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/def61d15-93bf-475f-b03e-6c76e44a0d4d.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.9,
+        "reviewsIds": []
+      },
+      "type": [
+        "city",
+        "long term",
+        "london",
+        "espresso"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "lorem",
+        "ipsum"
+      ],
+      "amentities": [
+        "cats",
+        "day games",
+        "cold drinks",
+        "garden"
+      ]
     }
   ],
   "review": [
@@ -58,7 +196,7 @@
   "user": [
     {
       "type": "host/visitor",
-      "name": "name",
+      "name": "Amit and Hosam and Shachal",
       "_id": "userid",
       "email": "email",
       "password": "pass",
