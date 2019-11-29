@@ -195,9 +195,9 @@
   ],
   "user": [
     {
-      "type": "host/visitor",
+      "type": "HSA (host)",
       "name": "Amit and Hosam and Shachal",
-      "_id": "userid",
+      "_id": "234",
       "email": "email",
       "password": "pass",
       "joinedAt": "26.11.1992",
