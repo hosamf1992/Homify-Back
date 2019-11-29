@@ -3,19 +3,19 @@
     {
       "name": "Hut In The Woods",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 123,
+      "price": "250",
       "_id": "1234",
+      "id": "1234",
       "hostId": "234",
       "location": {
         "address": {
-          "continent": "Asia",
           "country": "Israel",
           "street": "Habonim",
-          "streetNo": 4
+          "city": "tel aviv"
         },
         "coords": {
-          "lan": 12,
-          "lat": 21
+          "lat": 48.856614,
+          "lng": 2.3522219
         }
       },
       "imgs": [
@@ -40,22 +40,22 @@
         "shower"
       ]
     },
-  {
+    {
       "name": "Champs-Elysees Golden",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 225,
+      "price": "230",
       "_id": "191",
+      "id": "191",
       "hostId": "234",
       "location": {
         "address": {
-          "continent": "Europe",
           "country": "France",
           "street": "Paris",
-          "streetNo": 2
+          "city": "paris"
         },
         "coords": {
-          "lan": 48.85,
-          "lat": 2.35
+          "lat": 48.856614,
+          "lng": 2.3522219
         }
       },
       "imgs": [
@@ -86,22 +86,22 @@
         "garden"
       ]
     },
-  {
+    {
       "name": "BIG BEN VINTAGE ROOM Nr2!",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 800,
+      "price": "800",
       "_id": "255",
+      "id": "255",
       "hostId": "344",
       "location": {
         "address": {
-          "continent": "Europe",
           "country": "England",
           "street": "London",
-          "streetNo": 9
+          "city": "London"
         },
         "coords": {
-          "lan": 51.5073509,
-          "lat": -0.1277583
+          "lat": 48.856614,
+          "lng": 2.3522219
         }
       },
       "imgs": [
@@ -132,22 +132,22 @@
         "garden"
       ]
     },
-{
+    {
       "name": "Stylish room /10 mins to Big Ben",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 633,
+      "price": "630",
       "_id": "120",
+      "id": "120",
       "hostId": "344",
       "location": {
         "address": {
-          "continent": "Europe",
           "country": "England",
           "street": "London",
-          "streetNo": 18
+          "city": "london"
         },
         "coords": {
-          "lan": 51.5073509,
-          "lat": -0.1277583
+          "lat": 48.856614,
+          "lng": 2.3522219
         }
       },
       "imgs": [
@@ -177,6 +177,56 @@
         "cold drinks",
         "garden"
       ]
+    },
+    {
+      "imgs": [
+        "http://res.cloudinary.com/dcbeo6630/image/upload/v1574970327/e88a26d4-3166-4382-a2b9-b292ee12f40a_j9uht8.jpg"
+      ],
+      "location": {
+        "coords": {
+          "lat": 32.0852999,
+          "lng": 34.78176759999999
+        },
+        "address": {
+          "street": "",
+          "city": "tel aviv",
+          "country": "israel"
+        }
+      },
+      "amentities": [
+        "Parking",
+        "Kitchen",
+        "Wifi"
+      ],
+      "name": "Sea View apartment with Balcony!!",
+      "price": "150",
+      "desc": "Beach View studio with Balcony is located in the Tel Aviv Promenade district of Tel Aviv, a 19-minute walk from Meir Park, one kilometer from Dizengoff Center and 1.8 km from Suzanne Dellal Dance Show Centre, Neve Tzedek. This beachfront property has a balcony.\n",
+      "id": "RK7",
+      "_id": "RK7"
+    },
+    {
+      "imgs": [
+        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575033674/best-ideas-1280x640_oei0n8.jpg"
+      ],
+      "location": {
+        "coords": {
+          "lat": 10.8505159,
+          "lng": 76.2710833
+        },
+        "address": {
+          "street": "",
+          "city": "kerala",
+          "country": "india"
+        }
+      },
+      "amentities": [
+        "Kitchen",
+        "Shower"
+      ],
+      "name": "welcome to the jungle",
+      "price": "150",
+      "_id": "xiO",
+      "id": "jbD-fa5"
     }
   ],
   "review": [
