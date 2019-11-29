@@ -232,7 +232,43 @@
   "review": [
     {
       "_id": "id",
-      "txt": "some comment",
+      "txt": "wow amazing",
+      "postId": "234",
+      "createdAt": "26.11.1992",
+      "rating": 5,
+      "user": {
+        "userId": "1234",
+        "userName": "eyal"
+      },
+      "houseId": "1234"
+    },
+ {
+      "_id": "id",
+      "txt": "mmmm nice one",
+      "postId": "234",
+      "createdAt": "26.11.1992",
+      "rating": 5,
+      "user": {
+        "userId": "1234",
+        "userName": "kyle"
+      },
+      "houseId": "1234"
+    },
+ {
+      "_id": "id",
+      "txt": "lovely!summer time",
+      "postId": "234",
+      "createdAt": "26.11.1992",
+      "rating": 5,
+      "user": {
+        "userId": "1234",
+        "userName": "sunny"
+      },
+      "houseId": "1234"
+    },
+ {
+      "_id": "id",
+      "txt": "some comment4",
       "postId": "234",
       "createdAt": "26.11.1992",
       "rating": 5,
@@ -240,7 +276,7 @@
         "userId": "1234",
         "userName": "name"
       },
-      "houseId": "hasd"
+      "houseId": "123"
     }
   ],
   "user": [
