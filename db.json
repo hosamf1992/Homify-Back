@@ -43,7 +43,7 @@
     {
       "name": "Champs-Elysees Golden",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 225,
+      "price": "230",
       "_id": "191",
       "id": "191",
       "hostId": "234",
@@ -89,7 +89,7 @@
     {
       "name": "BIG BEN VINTAGE ROOM Nr2!",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 800,
+      "price": "800",
       "_id": "255",
       "id": "255",
       "hostId": "344",
@@ -135,16 +135,15 @@
     {
       "name": "Stylish room /10 mins to Big Ben",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": 633,
+      "price": "630",
       "_id": "120",
       "id": "120",
       "hostId": "344",
       "location": {
         "address": {
-          "continent": "Europe",
           "country": "England",
           "street": "London",
-          "streetNo": 18
+          "city": "london"
         },
         "coords": {
           "lat": 48.856614,
@@ -205,32 +204,29 @@
       "id": "RK7",
       "_id": "RK7"
     },
-   
-    
     {
       "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575027443/best-ideas-1280x640_kifgic.jpg"
+        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575033674/best-ideas-1280x640_oei0n8.jpg"
       ],
       "location": {
         "coords": {
-          "lat": 32.0852999,
-          "lng": 34.78176759999999
+          "lat": 10.8505159,
+          "lng": 76.2710833
         },
         "address": {
           "street": "",
-          "city": "tel aviv",
-          "country": "israel"
+          "city": "kerala",
+          "country": "india"
         }
       },
       "amentities": [
-        "Elevator",
-        "Parking",
+        "Kitchen",
         "Shower"
       ],
-      "name": "vanilla js123",
-      "price": "260",
-      "_id": "GVz",
-      "id": "2kmXt60"
+      "name": "welcome to the jungle",
+      "price": "150",
+      "_id": "xiO",
+      "id": "jbD-fa5"
     }
   ],
   "review": [
