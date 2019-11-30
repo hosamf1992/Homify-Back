@@ -356,6 +356,7 @@
   "order": [
     {
       "createdAt": "26.11.1992",
+"name": "beutiful house",
       "_id": 123,
       "houseId": "hasd",
       "dates": {
@@ -365,6 +366,10 @@
       "user": {
         "userId": "123",
         "userName": "name"
+      },
+"guests": {
+        "adults": "adults",
+        "children": "children"
       },
       "status": "approved"
     }
