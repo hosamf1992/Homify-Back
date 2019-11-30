@@ -227,6 +227,52 @@
       "price": "150",
       "_id": "xiO",
       "id": "jbD-fa5"
+    },
+    {
+      "imgs": [
+        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575040659/best-ideas-1280x640_mb6y1b.jpg"
+      ],
+      "location": {
+        "coords": {
+          "lat": 31.7825607,
+          "lng": 35.2194831
+        },
+        "address": {
+          "street": "",
+          "city": "tel aviv",
+          "country": "israel"
+        }
+      },
+      "amentities": [],
+      "name": "tete",
+      "price": "150",
+      "_id": "Ptx",
+      "id": "CpkuTJw"
+    },
+    {
+      "imgs": [
+        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575046079/best-ideas-1280x640_dvk8ee.jpg"
+      ],
+      "location": {
+        "coords": {
+          "lat": 32.7940463,
+          "lng": 34.989571
+        },
+        "address": {
+          "street": "",
+          "city": "haifa",
+          "country": "israel"
+        }
+      },
+      "amentities": [
+        "Parking",
+        "Shower"
+      ],
+      "name": "vacation in ..",
+      "price": "150",
+      "desc": "test is awsome!",
+      "_id": "6Ec",
+      "id": "qq20EgH"
     }
   ],
   "review": [
@@ -242,7 +288,7 @@
       },
       "houseId": "1234"
     },
- {
+    {
       "_id": "id",
       "txt": "mmmm nice one",
       "postId": "234",
@@ -254,7 +300,7 @@
       },
       "houseId": "1234"
     },
- {
+    {
       "_id": "id",
       "txt": "lovely!summer time",
       "postId": "234",
@@ -266,7 +312,7 @@
       },
       "houseId": "1234"
     },
- {
+    {
       "_id": "id",
       "txt": "some comment4",
       "postId": "234",
@@ -277,13 +323,29 @@
         "userName": "name"
       },
       "houseId": "123"
+    },
+ 
+  
+  
+  
+  
+   
+    {
+      "txt": "nice",
+      "user": {
+        "userName": "me"
+      },
+      "houseId": "120",
+      "_id": "zw7",
+      "id": "3FL",
+      "createdAt": "11/29/2019"
     }
   ],
   "user": [
     {
-      "type": "HSA (host)",
+      "type": "host/visitor",
       "name": "Amit and Hosam and Shachal",
-      "_id": "234",
+      "_id": "userid",
       "email": "email",
       "password": "pass",
       "joinedAt": "26.11.1992",
@@ -294,6 +356,7 @@
   "order": [
     {
       "createdAt": "26.11.1992",
+"name": "beutiful house",
       "_id": 123,
       "houseId": "hasd",
       "dates": {
@@ -303,6 +366,10 @@
       "user": {
         "userId": "123",
         "userName": "name"
+      },
+"guests": {
+        "adults": "adults",
+        "children": "children"
       },
       "status": "approved"
     }
