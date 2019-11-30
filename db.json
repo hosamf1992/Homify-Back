@@ -147,7 +147,6 @@
       "imgs": [
         "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/6fc798e3-15c5-48c7-b542-8582ac737aa6.jpeg?aki_policy=exp_md",
         "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/ae23d09b-6a86-46bb-893c-a32fe441289d.jpeg?aki_policy=exp_xl",
-        "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/ae23d09b-6a86-46bb-893c-a32fe441289d.jpeg?aki_policy=exp_xl",
         "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/45f6a959-1001-433f-bb94-278cbed34764.jpeg?aki_policy=exp_xl"
       ],
       "reviews": {
@@ -504,18 +503,56 @@
       "createdAt": "26.11.1992",
       "name": "Beautiful house",
       "_id": 123,
-      "houseId": "hasd",
+      "houseId": "jn5",
       "dates": {
-        "from": "26.11.1992",
-        "to": "27.12.1990"
+        "from": "25.12.2019",
+        "to": "05.01.2020"
       },
       "user": {
-        "userId": "123",
-        "userName": "name"
+        "userId": "sh5",
+        "userName": "Sharon"
       },
       "guests": {
-        "adults": "adults",
-        "children": "children"
+        "adults": "2",
+        "children": "3"
+      },
+      "status": "approved"
+    },
+    {
+      "createdAt": "5.12.2019",
+      "name": "Very nice!",
+      "_id": 228,
+      "houseId": "asg",
+      "dates": {
+        "from": "25.12.2019",
+        "to": "28.12.2019"
+      },
+      "user": {
+        "userId": "jm9",
+        "userName": "Asaf"
+      },
+      "guests": {
+        "adults": "1",
+        "children": "1"
+      },
+      "status": "pending"
+    },
+    {
+      "createdAt": "26.11.2019",
+      "name": "Beautiful house",
+      "_id": 783,
+      "houseId": "fm9",
+      "dates": {
+        "from": "06.01.2020",
+        "to": "08.01.2020"
+      },
+      "user": {
+        "userId": "bn9",
+        "userName": "David"
+      },
+      "guests": {
+        "adults": "1",
+        "children": "0"
       },
       "status": "approved"
     }
