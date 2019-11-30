@@ -3,15 +3,9 @@
     {
       "name": "Sweet & cosy room next to Canal Saint Martin",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-<<<<<<< HEAD
       "price": "256",
       "_id": "f6h",
       "id": "f6h",
-=======
-      "price": "251",
-      "_id": "1234",
-      "id": "1234",
->>>>>>> c9020c2cf55381f5976cf942e893b81cc136b559
       "hostId": "234",
       "location": {
         "address": {
