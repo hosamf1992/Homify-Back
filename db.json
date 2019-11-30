@@ -3,7 +3,7 @@
     {
       "name": "Hut In The Woods",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": "250",
+      "price": "251",
       "_id": "1234",
       "id": "1234",
       "hostId": "234",
@@ -203,76 +203,6 @@
       "desc": "Beach View studio with Balcony is located in the Tel Aviv Promenade district of Tel Aviv, a 19-minute walk from Meir Park, one kilometer from Dizengoff Center and 1.8 km from Suzanne Dellal Dance Show Centre, Neve Tzedek. This beachfront property has a balcony.\n",
       "id": "RK7",
       "_id": "RK7"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575033674/best-ideas-1280x640_oei0n8.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 10.8505159,
-          "lng": 76.2710833
-        },
-        "address": {
-          "street": "",
-          "city": "kerala",
-          "country": "india"
-        }
-      },
-      "amentities": [
-        "Kitchen",
-        "Shower"
-      ],
-      "name": "welcome to the jungle",
-      "price": "150",
-      "_id": "xiO",
-      "id": "jbD-fa5"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575040659/best-ideas-1280x640_mb6y1b.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 31.7825607,
-          "lng": 35.2194831
-        },
-        "address": {
-          "street": "",
-          "city": "tel aviv",
-          "country": "israel"
-        }
-      },
-      "amentities": [],
-      "name": "tete",
-      "price": "150",
-      "_id": "Ptx",
-      "id": "CpkuTJw"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575046079/best-ideas-1280x640_dvk8ee.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 32.7940463,
-          "lng": 34.989571
-        },
-        "address": {
-          "street": "",
-          "city": "haifa",
-          "country": "israel"
-        }
-      },
-      "amentities": [
-        "Parking",
-        "Shower"
-      ],
-      "name": "vacation in ..",
-      "price": "150",
-      "desc": "test is awsome!",
-      "_id": "6Ec",
-      "id": "qq20EgH"
     }
   ],
   "review": [
@@ -324,12 +254,6 @@
       },
       "houseId": "123"
     },
- 
-  
-  
-  
-  
-   
     {
       "txt": "nice",
       "user": {
@@ -338,6 +262,16 @@
       "houseId": "120",
       "_id": "zw7",
       "id": "3FL",
+      "createdAt": "11/29/2019"
+    },
+    {
+      "txt": "nice place",
+      "user": {
+        "userName": "me"
+      },
+      "houseId": "255",
+      "_id": "4gy",
+      "id": "esl",
       "createdAt": "11/29/2019"
     }
   ],
