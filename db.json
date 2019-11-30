@@ -1,17 +1,17 @@
 {
   "house": [
     {
-      "name": "Hut In The Woods",
+      "name": "Sweet & cosy room next to Canal Saint Martin",
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
-      "price": "250",
-      "_id": "1234",
-      "id": "1234",
+      "price": "256",
+      "_id": "f6h",
+      "id": "f6h",
       "hostId": "234",
       "location": {
         "address": {
-          "country": "Israel",
-          "street": "Habonim",
-          "city": "tel aviv"
+          "country": "France",
+          "street": "Canal Saint Martin",
+          "city": "Paris"
         },
         "coords": {
           "lat": 48.856614,
@@ -19,16 +19,102 @@
         }
       },
       "imgs": [
-        "https://blenderartists.org/uploads/default/original/3X/6/1/61f16a294be7a9adb48900e1a542511e166aa79f.jpg",
-        "https://static.puzzlefactory.pl/puzzle/182/314/original.jpg"
+        "https://a0.muscache.com/im/pictures/e3faa513-acc3-4784-86ac-136b0d208381.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/c0c7d80d-9c1c-4ff6-b191-5191dc9a6291.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/e61c9021-5dee-43dd-93bd-059021dc0354.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/c382d85d-5a6a-413b-b2a9-733e8c0faabf.jpg?aki_policy=xx_large"
       ],
       "reviews": {
-        "avgRating": 4.3,
+        "avgRating": 4.1,
         "reviewsIds": []
       },
       "type": [
-        "nature",
-        "woods"
+        "city",
+        "beutiful"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "wifi",
+        "tv"
+      ]
+    },
+    {
+      "name": "Studio Place de la Bastille",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": "667",
+      "_id": "g3k",
+      "id": "g3k",
+      "hostId": "hjk",
+      "location": {
+        "address": {
+          "country": "France",
+          "street": "de la Bastille",
+          "city": "Paris"
+        },
+        "coords": {
+          "lat": 48.856614,
+          "lng": 2.3522219
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/71186802/eaed3f3e_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/70670009/7c953043_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/20715845/98350d5c_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/21562662/f20e9002_original.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.8,
+        "reviewsIds": []
+      },
+      "type": [
+        "city",
+        "amazing"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "shower",
+        "breakfast"
+      ]
+    },
+    {
+      "name": "Advanture in Rome",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": "150",
+      "_id": "ms2",
+      "id": "ms2",
+      "hostId": "og2",
+      "location": {
+        "address": {
+          "country": "Italy",
+          "street": "Forano 12",
+          "city": "Rome"
+        },
+        "coords": {
+          "lat": 41.90,
+          "lng": 12.49
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/84d6d4ac-0fac-408a-9f66-0cfaac78aa12.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/97279f22-3676-49df-b79f-84263550a8b9.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/0e8915a8-6c84-47b5-8343-5ff87c772a7b.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/42960343/5cb99608_original.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.9,
+        "reviewsIds": []
+      },
+      "type": [
+        "city",
+        "large rooms"
       ],
       "availableDates": [],
       "msgs": [
@@ -37,7 +123,133 @@
       ],
       "amentities": [
         "kitchen",
-        "shower"
+        "wifi"
+      ]
+    },
+    {
+      "name": "Tuscany vileage",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": "1005",
+      "_id": "kbs",
+      "id": "kbs",
+      "hostId": "234",
+      "location": {
+        "address": {
+          "country": "Italy",
+          "street": "Tusson",
+          "city": "Tuscany"
+        },
+        "coords": {
+          "lat": 41.90,
+          "lng": 12.49
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/6fc798e3-15c5-48c7-b542-8582ac737aa6.jpeg?aki_policy=exp_md",
+        "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/ae23d09b-6a86-46bb-893c-a32fe441289d.jpeg?aki_policy=exp_xl",
+        "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/ae23d09b-6a86-46bb-893c-a32fe441289d.jpeg?aki_policy=exp_xl",
+        "https://a0.muscache.com/im/pictures/lombard/MtTemplate-1189863-media_library/original/45f6a959-1001-433f-bb94-278cbed34764.jpeg?aki_policy=exp_xl"
+      ],
+      "reviews": {
+        "avgRating": 5,
+        "reviewsIds": []
+      },
+      "type": [
+        "nature",
+        "close to lakes"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "amazing view",
+        "breakfast"
+      ]
+    },
+    {
+      "name": "Sunny apartment near metro station",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": "455",
+      "_id": "am0",
+      "id": "am0",
+      "hostId": "234",
+      "location": {
+        "address": {
+          "country": "Austria",
+          "street": "Metro fountain",
+          "city": "Vienna"
+        },
+        "coords": {
+          "lat": 48.20,
+          "lng": 16.37
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/09fbbef3-7872-4747-a1b9-257eb07ad1d9.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/b38495ea-54ca-4e74-afa8-3d49f6489ddb.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/807a9068-96ce-4416-aa7f-6ad03805d3b4.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/37593094-efc1-4a41-9dde-234a58955056.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 3.9,
+        "reviewsIds": []
+      },
+      "type": [
+        "urban",
+        "near forest"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "shower",
+        "tv"
+      ]
+    },
+    {
+      "name": "HopInHopOut Vienna at your Doorstep",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nobis dolore aliquid! Vitae fugiat laboriosam voluptatibus voluptas sequi minima, nihil eaque qui incidunt nostrum a tenetur commodi ipsum! Officia, laboriosam?",
+      "price": "950",
+      "_id": "12h",
+      "id": "12h",
+      "hostId": "234",
+      "location": {
+        "address": {
+          "country": "Austria",
+          "street": "hopinhop",
+          "city": "12hienna"
+        },
+        "coords": {
+          "lat": 48.856614,
+          "lng": 2.3522219
+        }
+      },
+      "imgs": [
+        "https://a0.muscache.com/im/pictures/16592772/d0df450a_original.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/b0f7d29f-6382-4581-80e3-2847c8df024f.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/8b38e7cf-e36d-4c65-a04f-870b9c925d8a.jpg?aki_policy=xx_large",
+        "https://a0.muscache.com/im/pictures/53581100/2f4614a2_original.jpg?aki_policy=xx_large"
+      ],
+      "reviews": {
+        "avgRating": 4.1,
+        "reviewsIds": []
+      },
+      "type": [
+        "cool",
+        "city"
+      ],
+      "availableDates": [],
+      "msgs": [
+        "hi",
+        "bye"
+      ],
+      "amentities": [
+        "free wifi",
+        "cats food"
       ]
     },
     {
@@ -203,76 +415,6 @@
       "desc": "Beach View studio with Balcony is located in the Tel Aviv Promenade district of Tel Aviv, a 19-minute walk from Meir Park, one kilometer from Dizengoff Center and 1.8 km from Suzanne Dellal Dance Show Centre, Neve Tzedek. This beachfront property has a balcony.\n",
       "id": "RK7",
       "_id": "RK7"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575033674/best-ideas-1280x640_oei0n8.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 10.8505159,
-          "lng": 76.2710833
-        },
-        "address": {
-          "street": "",
-          "city": "kerala",
-          "country": "india"
-        }
-      },
-      "amentities": [
-        "Kitchen",
-        "Shower"
-      ],
-      "name": "welcome to the jungle",
-      "price": "150",
-      "_id": "xiO",
-      "id": "jbD-fa5"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575040659/best-ideas-1280x640_mb6y1b.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 31.7825607,
-          "lng": 35.2194831
-        },
-        "address": {
-          "street": "",
-          "city": "tel aviv",
-          "country": "israel"
-        }
-      },
-      "amentities": [],
-      "name": "tete",
-      "price": "150",
-      "_id": "Ptx",
-      "id": "CpkuTJw"
-    },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1575046079/best-ideas-1280x640_dvk8ee.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 32.7940463,
-          "lng": 34.989571
-        },
-        "address": {
-          "street": "",
-          "city": "haifa",
-          "country": "israel"
-        }
-      },
-      "amentities": [
-        "Parking",
-        "Shower"
-      ],
-      "name": "vacation in ..",
-      "price": "150",
-      "desc": "test is awsome!",
-      "_id": "6Ec",
-      "id": "qq20EgH"
     }
   ],
   "review": [
@@ -324,12 +466,6 @@
       },
       "houseId": "123"
     },
- 
-  
-  
-  
-  
-   
     {
       "txt": "nice",
       "user": {
@@ -338,6 +474,16 @@
       "houseId": "120",
       "_id": "zw7",
       "id": "3FL",
+      "createdAt": "11/29/2019"
+    },
+    {
+      "txt": "nice place",
+      "user": {
+        "userName": "me"
+      },
+      "houseId": "255",
+      "_id": "4gy",
+      "id": "esl",
       "createdAt": "11/29/2019"
     }
   ],
@@ -356,7 +502,7 @@
   "order": [
     {
       "createdAt": "26.11.1992",
-"name": "beutiful house",
+      "name": "Beautiful house",
       "_id": 123,
       "houseId": "hasd",
       "dates": {
@@ -367,7 +513,7 @@
         "userId": "123",
         "userName": "name"
       },
-"guests": {
+      "guests": {
         "adults": "adults",
         "children": "children"
       },
