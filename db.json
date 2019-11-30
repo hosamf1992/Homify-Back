@@ -389,33 +389,6 @@
         "garden"
       ]
     },
-    {
-      "imgs": [
-        "http://res.cloudinary.com/dcbeo6630/image/upload/v1574970327/e88a26d4-3166-4382-a2b9-b292ee12f40a_j9uht8.jpg"
-      ],
-      "location": {
-        "coords": {
-          "lat": 32.0852999,
-          "lng": 34.78176759999999
-        },
-        "address": {
-          "street": "",
-          "city": "tel aviv",
-          "country": "israel"
-        }
-      },
-      "amentities": [
-        "Parking",
-        "Kitchen",
-        "Wifi"
-      ],
-      "name": "Sea View apartment with Balcony!!",
-      "price": "150",
-      "desc": "Beach View studio with Balcony is located in the Tel Aviv Promenade district of Tel Aviv, a 19-minute walk from Meir Park, one kilometer from Dizengoff Center and 1.8 km from Suzanne Dellal Dance Show Centre, Neve Tzedek. This beachfront property has a balcony.\n",
-      "id": "RK7",
-      "_id": "RK7"
-    }
-  ],
   "review": [
     {
       "_id": "id",
